@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajvikash18113/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
