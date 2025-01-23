@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/rajvikash18113/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
