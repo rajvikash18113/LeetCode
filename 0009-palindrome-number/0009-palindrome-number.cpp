@@ -1,15 +1,27 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string str = to_string(x);
-        int n = str.size();
-        for(int i = 0; i < n / 2; i++)
-        {
-            if(str[i] == str[n - 1 - i])
-                continue;
-            else
+
+        int n = x;
+
+        if (n < 0)
+            return false;
+
+        int reverse = 0;
+
+        while (n > 0) {
+            int digit = n % 10;
+
+            if (reverse > INT_MAX / 10 || reverse < INT_MIN / 10)
                 return false;
+
+            reverse = reverse * 10 + digit;
+            n /= 10;
         }
-        return true;
+
+        if (reverse == x)
+            return true;
+        else
+            return false;
     }
 };
