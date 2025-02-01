@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1603-running-sum-of-1d-array](https://github.com/rajvikash18113/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rajvikash18113/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajvikash18113/LeetCode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/rajvikash18113/LeetCode/tree/master/0263-ugly-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/rajvikash18113/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
