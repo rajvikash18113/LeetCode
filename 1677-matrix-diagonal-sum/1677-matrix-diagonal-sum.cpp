@@ -9,8 +9,9 @@ public:
             sum += mat[i][n - 1 - i];   // Secondary diagonal
         }
 
-        
-        if (n % 2 == 1) {
+        // if matrix is odd subtract the middle element one time
+        if (n % 2 == 1) 
+        {
             sum -= mat[n / 2][n / 2];
         }
 
