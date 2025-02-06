@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rajvikash18113/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/rajvikash18113/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2058-concatenation-of-array](https://github.com/rajvikash18113/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/rajvikash18113/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/rajvikash18113/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
