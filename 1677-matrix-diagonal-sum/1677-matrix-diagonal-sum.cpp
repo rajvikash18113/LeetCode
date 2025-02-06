@@ -4,6 +4,7 @@ public:
         int sum = 0;
         int n = mat.size();
 
+        // calculate the sum of diagonal
         for (int i = 0; i < n; i++) {
             sum += mat[i][i];           // Primary diagonal
             sum += mat[i][n - 1 - i];   // Secondary diagonal
