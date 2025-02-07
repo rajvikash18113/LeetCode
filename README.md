@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/rajvikash18113/LeetCode/tree/master/2058-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
