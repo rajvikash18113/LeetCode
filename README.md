@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rajvikash18113/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rajvikash18113/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/rajvikash18113/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajvikash18113/LeetCode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rajvikash18113/LeetCode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/rajvikash18113/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rajvikash18113/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajvikash18113/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajvikash18113/LeetCode/tree/master/0342-power-of-four) |
 ## Prefix Sum
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rajvikash18113/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rajvikash18113/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/rajvikash18113/LeetCode/tree/master/0461-hamming-distance) |
 ## Recursion
@@ -73,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rajvikash18113/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajvikash18113/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajvikash18113/LeetCode/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
