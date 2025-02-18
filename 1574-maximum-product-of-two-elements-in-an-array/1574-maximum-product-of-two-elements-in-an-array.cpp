@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
+        // brute force approach
         int n = nums.size();
         int prev_result = 0;
         for(int i = 0; i < n; i++)
