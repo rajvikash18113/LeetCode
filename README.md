@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajvikash18113/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajvikash18113/LeetCode/tree/master/0342-power-of-four) |
+| [2752-sum-multiples](https://github.com/rajvikash18113/LeetCode/tree/master/2752-sum-multiples) |
 ## Prefix Sum
 |  |
 | ------- |
