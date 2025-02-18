@@ -1,6 +1,7 @@
 class Solution {
 public:
     int sumOfMultiples(int n) {
+        // Brute Force Approach
         int sum = 0;
         for(int i = 1; i <= n; i++)
         {
