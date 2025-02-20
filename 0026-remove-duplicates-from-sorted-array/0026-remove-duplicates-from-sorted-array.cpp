@@ -9,7 +9,7 @@ public:
             if(nums[i-1] != nums[i])
             {
                 k++;
-                nums[k] = nums[i];
+                nums[k] = nums[i];                               
             }
         }
         return k+1;
