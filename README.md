@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajvikash18113/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajvikash18113/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajvikash18113/LeetCode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
