@@ -1,11 +1,16 @@
 class Solution {
 public:
     int fib(int n) {
-        // using Multiple Recursion Call
-        if (n <= 1)
-            return n;
-        int last = fib(n - 1);
-        int second_last = fib(n - 2);
-        return last + second_last;
+        int i = 1;
+        int first = 0, second = 1, sum = 0;
+        if(n <= 1) return n;
+        while(i < n)
+        {
+            sum = first + second;
+            first = second;
+            second = sum;
+            i++;
+        }
+        return sum;
     }
 };
