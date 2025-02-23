@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajvikash18113/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajvikash18113/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/rajvikash18113/LeetCode/tree/master/1013-fibonacci-number) |
 | [2752-sum-multiples](https://github.com/rajvikash18113/LeetCode/tree/master/2752-sum-multiples) |
 ## Prefix Sum
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rajvikash18113/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajvikash18113/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajvikash18113/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/rajvikash18113/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rajvikash18113/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rajvikash18113/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rajvikash18113/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
