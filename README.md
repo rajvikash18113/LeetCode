@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rajvikash18113/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0777-toeplitz-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rajvikash18113/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/rajvikash18113/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/rajvikash18113/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/rajvikash18113/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
