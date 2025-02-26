@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajvikash18113/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rajvikash18113/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0777-toeplitz-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/rajvikash18113/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/rajvikash18113/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
