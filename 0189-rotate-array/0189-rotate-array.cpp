@@ -1,22 +1,24 @@
 class Solution {
 public:
+    // Optimized Approach
+    void reverse(vector<int>& nums, int start, int end) {
+        while (start < end) {
+            swap(nums[start], nums[end]);
+            start++;
+            end--;
+        }
+    }
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
         k = k % n;
-        int t = n - k;
-        vector<int> temp(t);
-        for (int i = 0; i < t; i++) {
-            temp[i] = nums[i];
-        }
 
-        for(int i = t; i < n; i++)
-        {
-            nums[i-t] = nums[i];
-        }
+        // reverse k elements
+        reverse(nums, n - k, n - 1);
 
-        for(int i = 0; i < t; i++)
-        {
-            nums[n-t+i] = temp[i];
-        }
+        // reverse remaining n - k elements
+        reverse(nums, 0, n - k - 1);
+
+        // reverse the entire elements
+        reverse(nums, 0, n - 1);
     }
 };
