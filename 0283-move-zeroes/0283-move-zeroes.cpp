@@ -1,12 +1,27 @@
 class Solution {
 public:
-    // Optimized Approach
-    void moveZeroes(vector<int>& nums) {
-         int i = 0;
-        for(int j = 0; j < nums.size(); j++) {
-            if(nums[j] != 0) {
-                swap(nums[i], nums[j]);
-                i++;
+//Optimized Approach 2
+    void moveZeroes(vector<int>& arr) {
+        int n = arr.size();
+        int j = -1;
+        for(int i = 0; i < n; i++)
+        {
+            if(arr[i] == 0)
+            {
+                j = i;
+                break;
+            }
+        }
+
+        if(j != -1)
+        {
+            for(int i = j + 1; i < n; i++)
+            {
+                if(arr[i] != 0)
+                {
+                swap(arr[i], arr[j]);
+                j++;
+                }
             }
         }
     }
