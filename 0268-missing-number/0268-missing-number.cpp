@@ -1,21 +1,14 @@
 class Solution {
 public:
-//----------Brute Force Approach---------//
     int missingNumber(vector<int>& nums) {
-        for(int i = 0; i <= nums.size(); i++)
+        //------------------ Optimized --------------------//
+        int n = nums.size();
+        int totalSum = n*(n+1)/2;
+        int sum = 0;
+        for(int i = 0; i < n; i++)
         {
-            bool present = 0;
-            for(int j = 0; j < nums.size(); j++)
-            {
-                if(nums[j] == i)
-                {
-                    present = 1;
-                    break;
-                }
-            }
-            if(present == 0)
-            return i;
+            sum += nums[i];
         }
-        return -1;
+        return totalSum - sum; 
     }
 };
