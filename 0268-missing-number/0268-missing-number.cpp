@@ -1,14 +1,21 @@
 class Solution {
 public:
+//----------Brute Force Approach---------//
     int missingNumber(vector<int>& nums) {
-        int n = nums.size();
-        int sum = (n * (n + 1)) / 2;
-        
-        // accumulate function is a part of <numeric> library in C++ which is
-        // used to  calculate the sum of the given set.
-        int arrSum = accumulate(nums.begin(), nums.end(),0); 
-        // 0 means initial sum of the set is 0
-
-        return sum - arrSum;
+        for(int i = 0; i <= nums.size(); i++)
+        {
+            bool present = 0;
+            for(int j = 0; j < nums.size(); j++)
+            {
+                if(nums[j] == i)
+                {
+                    present = 1;
+                    break;
+                }
+            }
+            if(present == 0)
+            return i;
+        }
+        return -1;
     }
 };
