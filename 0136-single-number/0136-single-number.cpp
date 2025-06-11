@@ -1,17 +1,11 @@
 class Solution {
 public:
-    //---------------Better Approach - Mapping----------------//
-
+    //---------------Optimial Approach-----------------//
     int singleNumber(vector<int>& nums) {
-        unordered_map<int, int> mpp;
+        int Xor = 0;
         for (int i = 0; i < nums.size(); i++) {
-            mpp[nums[i]]++;
+            Xor = Xor ^ nums[i];
         }
-
-        for (auto it : mpp) {
-            if (it.second == 1)
-            return it.first;
-        }
-        return -1;
+        return Xor;
     }
 };
