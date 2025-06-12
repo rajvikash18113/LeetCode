@@ -1,6 +1,6 @@
 class Solution {
 public:
-    //---------------Optimial Approach-----------------//
+    //-----------------Optimial Approach-----------------//
     int singleNumber(vector<int>& nums) {
         int Xor = 0;
         for (int i = 0; i < nums.size(); i++) {
