@@ -1,17 +1,30 @@
 class Solution {
 public:
-//--------------Better Approach : HashMap--------------//
+    //------------Optimal Approach : Moore's Voting Algorithm-------------//
     int majorityElement(vector<int>& nums) {
-        map<int, int> mpp;
-        int ele = nums.size() / 2;
-        for(int i = 0; i < nums.size(); i++){
-            mpp[nums[i]]++;
-        }
-        for(auto it : mpp){
-            if(it.second > ele){
-                return it.first;
+        int n = nums.size();
+        int element;
+        int count1 = 0;
+        for (int i = 0; i < n; i++) {
+            if (count1 == 0) {
+                element = nums[i];
+                count1++;
+            } else if (nums[i] == element) {
+                count1++;
+            } else {
+                count1--;
             }
         }
-        return -1;
+        int count2 = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == element) {
+                count2++;
+            }
+        }
+        if (count2 > n / 2) {
+            return element;
+        } else {
+            return -1;
+        }
     }
 };
