@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rajvikash18113/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajvikash18113/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajvikash18113/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rajvikash18113/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rajvikash18113/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
