@@ -1,7 +1,7 @@
 class Solution {
 public:
     //--------Expand of Inbuilt C++ STL function to find Next
-    //Permutation.--------//
+    // Permutation.--------//
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
         int index = -1;
