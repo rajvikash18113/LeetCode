@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajvikash18113/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajvikash18113/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/rajvikash18113/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajvikash18113/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rajvikash18113/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajvikash18113/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/rajvikash18113/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rajvikash18113/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rajvikash18113/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rajvikash18113/LeetCode/tree/master/0263-ugly-number) |
@@ -96,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajvikash18113/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0777-toeplitz-matrix) |
