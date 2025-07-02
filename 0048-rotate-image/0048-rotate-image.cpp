@@ -1,10 +1,10 @@
 class Solution {
 public:
-    //-----------Better Approach-----------//
+    //-----------Optimal Approach : Transpose and Reverse-----------//
     void rotate(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-
+        // Transposing the Matrix
         for (int i = 0; i < n; i++) {
             for (int j = i; j < m; j++) {
                 if (i != j) {
@@ -12,11 +12,9 @@ public:
                 }
             }
         }
-
+        // Reverseing each Row
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m / 2; j++) {
-                swap(matrix[i][j], matrix[i][n - 1 - j]);
-            }
+            reverse(matrix[i].begin(), matrix[i].end());
         }
     }
 };
