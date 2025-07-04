@@ -7,12 +7,9 @@ public:
         vector<int> ans;
         for (int i = 0; i < n; i++) {
             mpp[nums[i]]++;
-            // if (mpp[nums[i]] > (n / 3)) {
-            //     ans.push_back(nums[i]);
-            // }
         }
-        for(auto i : mpp){
-            if(i.second > (n/3)){
+        for (auto i : mpp) {
+            if (i.second > (n / 3)) {
                 ans.push_back(i.first);
             }
         }
