@@ -25,6 +25,7 @@
 | [0152-maximum-product-subarray](https://github.com/rajvikash18113/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rajvikash18113/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0283-move-zeroes) |
@@ -81,6 +82,7 @@
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
@@ -91,6 +93,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -135,6 +138,7 @@
 | [0169-majority-element](https://github.com/rajvikash18113/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajvikash18113/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/rajvikash18113/LeetCode/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
@@ -209,4 +213,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rajvikash18113/LeetCode/tree/master/0493-reverse-pairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
