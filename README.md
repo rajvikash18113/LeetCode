@@ -30,6 +30,7 @@
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajvikash18113/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajvikash18113/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rajvikash18113/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rajvikash18113/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/rajvikash18113/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@
 | [0229-majority-element-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajvikash18113/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rajvikash18113/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -70,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rajvikash18113/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rajvikash18113/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rajvikash18113/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0941-sort-array-by-parity](https://github.com/rajvikash18113/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajvikash18113/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -86,6 +89,7 @@
 | [0229-majority-element-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajvikash18113/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajvikash18113/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/rajvikash18113/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -163,6 +167,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/rajvikash18113/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rajvikash18113/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rajvikash18113/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/rajvikash18113/LeetCode/tree/master/0493-reverse-pairs) |
 ## String
 |  |
