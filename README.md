@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/rajvikash18113/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0777-toeplitz-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0777-toeplitz-matrix) |
+| [0792-binary-search](https://github.com/rajvikash18113/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/rajvikash18113/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -169,6 +170,7 @@
 | [0287-find-the-duplicate-number](https://github.com/rajvikash18113/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajvikash18113/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/rajvikash18113/LeetCode/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/rajvikash18113/LeetCode/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
