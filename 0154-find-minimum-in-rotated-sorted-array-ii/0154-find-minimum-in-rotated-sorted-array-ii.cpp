@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //----------Optimal Approach----------//
     int findMin(vector<int>& nums) {
         int n = nums.size();
         int min_ele = nums[0];
@@ -7,9 +8,10 @@ public:
         if (n == 1)
             return nums[0];
         while (low <= high) {
-            int c = high - low + 1;
+            int rem_ele = high - low + 1;
             int mid = (low + high) / 2;
-            if (c > 3 && nums[low] == nums[mid] && nums[mid] == nums[high]) {
+            if (rem_ele > 3 && nums[low] == nums[mid] &&
+                nums[mid] == nums[high]) {
                 low++;
                 high--;
                 continue;
