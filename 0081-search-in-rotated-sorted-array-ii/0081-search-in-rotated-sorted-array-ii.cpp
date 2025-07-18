@@ -1,21 +1,18 @@
 class Solution {
 public:
+    //-------Optimal Approach : O(log n)-------//
     bool search(vector<int>& nums, int target) {
         int n = nums.size();
         int low = 0, high = n - 1;
-        int mid = (low + high) / 2;
-        if (nums[mid] == target) {
-            return true;
-        }
-        while (low < high && nums[low] == nums[mid] &&
-               nums[mid] == nums[high]) {
-            low++;
-            high--;
-        }
         while (low <= high) {
-            mid = (low + high) / 2;
+            int mid = (low + high) / 2;
             if (nums[mid] == target) {
                 return true;
+            }
+            if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
+                low++;
+                high--;
+                continue;
             }
             if (nums[low] <= nums[mid]) {
                 if (nums[low] <= target && nums[mid] >= target) {
