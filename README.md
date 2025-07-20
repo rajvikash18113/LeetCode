@@ -45,6 +45,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajvikash18113/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0777-toeplitz-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/rajvikash18113/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rajvikash18113/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/rajvikash18113/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -190,6 +191,7 @@
 | [0493-reverse-pairs](https://github.com/rajvikash18113/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajvikash18113/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/rajvikash18113/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/rajvikash18113/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajvikash18113/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
