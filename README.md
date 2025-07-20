@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/rajvikash18113/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajvikash18113/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rajvikash18113/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/rajvikash18113/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rajvikash18113/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rajvikash18113/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rajvikash18113/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -118,6 +119,7 @@
 | [0007-reverse-integer](https://github.com/rajvikash18113/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajvikash18113/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajvikash18113/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/rajvikash18113/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rajvikash18113/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rajvikash18113/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/rajvikash18113/LeetCode/tree/master/0263-ugly-number) |
