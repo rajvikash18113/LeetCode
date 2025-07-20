@@ -57,6 +57,7 @@
 | [2058-concatenation-of-array](https://github.com/rajvikash18113/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rajvikash18113/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajvikash18113/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3221-find-the-peaks](https://github.com/rajvikash18113/LeetCode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,4 +249,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajvikash18113/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/rajvikash18113/LeetCode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
